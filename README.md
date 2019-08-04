@@ -1,2 +1,2 @@
 # hello-world
-Hello world repos for lerning Github
+Hello world repos for learning Github
